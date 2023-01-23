@@ -1,0 +1,18 @@
+<marathon>
+  <athletes>
+    <name>Mike</name>
+    <age>25</age>
+    <awards>
+      Two times world champion. Currently, worlds No. 3
+    </awards>
+    <titles>6</titles>
+  </athletes>
+  <athletes>
+    <name>Usain</name>
+    <age>29</age>
+    <awards>
+      Five times world champion. Currently, worlds No. 1
+    </awards>
+    <titles>17</titles>
+  </athletes>
+</marathon>
